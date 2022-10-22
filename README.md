@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tangyumao
 - 👀 I’m interested in human computer interaction, EdTech and linguitics
-- 🌱 I’m currently researching HCI, EdTech(design & making) projects
+- 🌱 I’m currently researching EdTech(design, making, HCI) projects
 - 📫 Please visit my website Yutingtang.net
 
 <!---
