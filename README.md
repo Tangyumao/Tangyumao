@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Tangyumao
-- 👀 I’m interested in human computer interaction, EdTech and linguitics
-- 🌱 I’m currently researching EdTech(design, making, HCI) projects
-- 📫 Please visit my website Yutingtang.net
 
 <!---
 Tangyumao/Tangyumao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
