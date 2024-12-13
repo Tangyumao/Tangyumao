@@ -1,4 +1,4 @@
-**Please note that I do not wish for this account to be overly scrutinized or "watched" by those who are not familiar with me.**
+**Please note that I do not wish for this account to be overly scrutinized or "watched" by anyone.**
 
 <!---
 Tangyumao/Tangyumao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
